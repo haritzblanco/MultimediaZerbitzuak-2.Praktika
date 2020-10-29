@@ -1,0 +1,259 @@
+ffprobe version 4.2.4-1ubuntu0.1 Copyright (c) 2007-2020 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2)
+  configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libavresample   4.  0.  0 /  4.  0.  0
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, mp3, from '/home/haritzblanco/Desktop/2.Praktika/AudioEtaBideoak/Audio1.mp3':
+  Metadata:
+    purl            : https://www.youtube.com/watch?v=YGHEw8fKFVI
+    comment         : Corazn Sin Vida, ya disponible para descarga y streaming:
+                    : https://umusices.lnk.to/LMCorazonSVID
+                    : 
+                    : Letra/Lyrics:
+                    : 
+                    : T me dejaste, pero nunca te dije nada
+                    : Me enamoraste, pero nunca te dije nada
+                    : Para qu me curaste cuando estaba herida?
+                    : Si hoy me dejas de nuevo un corazn sin vida
+                    : 
+                    : Toma tus besos, te los regreso
+                    : No ser fcil olvidarte, lo confieso
+                    : Toma tus cartas, te las regreso
+                    : Con las palabras que escribiste en cada beso
+                    : 
+                    : Dime para qu me curaste cuando estaba herida?
+                    : Si hoy me dejas de nuevo un corazn sin vida
+                    : Un corazn que no te olvida
+                    : Un corazn que no te olvida
+                    : 
+                    : Tanto dao que hace el mar
+                    : Cuando est en la mitad
+                    : Yo nunca aprend a nadar
+                    : T tampoco a volar
+                    : Cuando dejamos de hablar
+                    : Se nos fue la ilusin
+                    : Cuantas ganas de llamarte
+                    : Me da esta cancin
+                    : 
+                    : Quizs falt decirte que lo siento
+                    : Que fui yo el que me alej y me llev el viento 
+                    : Y aunque s que ests con alguien de momento
+                    : Te buscaste en mis canciones todo el tiempo
+                    : Hoy me vuelves a escribir como si nada
+                    : Y otra vez te vuelvo a hablar como si nada
+                    : Como si nadar en lgrimas curara
+                    : Y ese mar que te alej nos acercar
+                    : 
+                    : Toma tus besos, te los regreso
+                    : No ser fcil olvidarte, lo confieso
+                    : Toma tus cartas, te las regreso
+                    : Con las palabras que escribiste en cada beso
+                    : Dime para qu me curaste cuando estaba herida?
+                    : Si hoy me dejas de nuevo un corazn sin vida
+                    : Un corazn que no te olvida
+                    : Un corazn que no te olvida
+                    : Un corazn que no te olvida
+                    : Un corazn que no te olvida
+                    : 
+                    : Toma tus besos, te los regreso
+                    : No ser fcil olvidarte, lo confieso
+                    : Toma tus cartas, te las regreso
+                    : Con las palabras que escribiste en cada beso
+                    : Dime para qu me curaste cuando estaba herida?
+                    : Si hoy me dejas de nuevo un corazn sin vida
+                    : Un corazn que no te olvida
+                    : Un corazn que no te olvida
+                    : 
+                    : 
+                    : 
+                    : Music video by Aitana, Sebastin Yatra performing Corazn Sin Vida.  2020 Universal Music Spain, S.L.U.
+                    : 
+                    : #Aitana #SebastianYatra #CoraznSinVida
+    description     : Corazn Sin Vida, ya disponible para descarga y streaming:
+                    : https://umusices.lnk.to/LMCorazonSVID
+                    : 
+                    : Letra/Lyrics:
+                    : 
+                    : T me dejaste, pero nunca te dije nada
+                    : Me enamoraste, pero nunca te dije nada
+                    : Para qu me curaste cuando estaba herida?
+                    : Si hoy me dejas de nuevo un corazn sin vida
+                    : 
+                    : Toma tus besos, te los regreso
+                    : No ser fcil olvidarte, lo confieso
+                    : Toma tus cartas, te las regreso
+                    : Con las palabras que escribiste en cada beso
+                    : 
+                    : Dime para qu me curaste cuando estaba herida?
+                    : Si hoy me dejas de nuevo un corazn sin vida
+                    : Un corazn que no te olvida
+                    : Un corazn que no te olvida
+                    : 
+                    : Tanto dao que hace el mar
+                    : Cuando est en la mitad
+                    : Yo nunca aprend a nadar
+                    : T tampoco a volar
+                    : Cuando dejamos de hablar
+                    : Se nos fue la ilusin
+                    : Cuantas ganas de llamarte
+                    : Me da esta cancin
+                    : 
+                    : Quizs falt decirte que lo siento
+                    : Que fui yo el que me alej y me llev el viento 
+                    : Y aunque s que ests con alguien de momento
+                    : Te buscaste en mis canciones todo el tiempo
+                    : Hoy me vuelves a escribir como si nada
+                    : Y otra vez te vuelvo a hablar como si nada
+                    : Como si nadar en lgrimas curara
+                    : Y ese mar que te alej nos acercar
+                    : 
+                    : Toma tus besos, te los regreso
+                    : No ser fcil olvidarte, lo confieso
+                    : Toma tus cartas, te las regreso
+                    : Con las palabras que escribiste en cada beso
+                    : Dime para qu me curaste cuando estaba herida?
+                    : Si hoy me dejas de nuevo un corazn sin vida
+                    : Un corazn que no te olvida
+                    : Un corazn que no te olvida
+                    : Un corazn que no te olvida
+                    : Un corazn que no te olvida
+                    : 
+                    : Toma tus besos, te los regreso
+                    : No ser fcil olvidarte, lo confieso
+                    : Toma tus cartas, te las regreso
+                    : Con las palabras que escribiste en cada beso
+                    : Dime para qu me curaste cuando estaba herida?
+                    : Si hoy me dejas de nuevo un corazn sin vida
+                    : Un corazn que no te olvida
+                    : Un corazn que no te olvida
+                    : 
+                    : 
+                    : 
+                    : Music video by Aitana, Sebastin Yatra performing Corazn Sin Vida.  2020 Universal Music Spain, S.L.U.
+                    : 
+                    : #Aitana #SebastianYatra #CoraznSinVida
+    artist          : AitanaVEVO
+    title           : Aitana, Sebastin Yatra - Corazn Sin Vida
+    date            : 20201001
+    encoder         : Lavf57.56.101
+  Duration: 00:03:01.34, start: 0.023021, bitrate: 264 kb/s
+    Stream #0:0: Audio: mp3, 48000 Hz, stereo, fltp, 262 kb/s
+    Metadata:
+      encoder         : Lavc57.64
+    Stream #0:1: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1280x720 [SAR 1:1 DAR 16:9], 90k tbr, 90k tbn, 90k tbc (attached pic)
+    Metadata:
+      title           : "Album cover"
+      comment         : Other
+ffprobe version 4.2.4-1ubuntu0.1 Copyright (c) 2007-2020 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2)
+  configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libavresample   4.  0.  0 /  4.  0.  0
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, mp3, from '/home/haritzblanco/Desktop/2.Praktika/AudioEtaBideoak/Audio2.mp3':
+  Metadata:
+    purl            : https://www.youtube.com/watch?v=ZlFri4ez_lE
+    comment         : C. Tangana  Demasiadas Mujeres
+                    : https://CTangana.lnk.to/DemasiadasMujeres
+                    : 
+                    : C. Tangana 
+                    : WEB https://www.ctangana.com 
+                    : IG https://www.instagram.com/c.tangana/
+                    : TW https://twitter.com/c_tangana
+                    : FB https://www.facebook.com/ctanganaofic... 
+                    : 
+                    : Lyrics
+                    : 
+                    : Desfilaba en Miln 
+                    : Con 21 campaas de Prada y ahora duerme aqu 
+                    : La miro pensando cuanto faltar para que empiece a odiar
+                    : La forma que tengo de amarla tan mal mi manera de huir
+                    : Que no puedo parar
+                    : 
+                    : No he olvidado el olor de la que me foll en el bao de un garito borracho en Berln
+                    : Escuchando un techno que me haca empujarla como un animal
+                    : Msica del infierno que sonar el da de mi funeral
+                    : An me acuerdo de ti
+                    : 
+                    : Demasiadas mujeres (x 8)
+                    : 
+                    : Un Whatsapp sin abrir
+                    : Hablando de cosas que no dicen nada para ver si an estas
+                    : Borracho en Miami volando para L.A. o de vuelta en Madrid
+                    : Cuntame cosas que no me hagan dao, cundo volvers
+                    : Qu hora es por all
+                    : 
+                    : No me puedo olvidar de la que me dijo que siempre para siempre estara para m
+                    : De la que deca que solo una noche y despus no hubo ms
+                    : De la que se fue con mi ganas de amar mis ganas de vivir
+                    : No las he vuelto a encontrar
+                    : 
+                    : Demasiadas mujeres (x 8)
+                    : 
+                    : 
+                    : Music video by C. Tangana performing Demasiadas Mujeres. (C) 2020 Sony Music Entertainment Espaa, S.L.
+    description     : C. Tangana  Demasiadas Mujeres
+                    : https://CTangana.lnk.to/DemasiadasMujeres
+                    : 
+                    : C. Tangana 
+                    : WEB https://www.ctangana.com 
+                    : IG https://www.instagram.com/c.tangana/
+                    : TW https://twitter.com/c_tangana
+                    : FB https://www.facebook.com/ctanganaofic... 
+                    : 
+                    : Lyrics
+                    : 
+                    : Desfilaba en Miln 
+                    : Con 21 campaas de Prada y ahora duerme aqu 
+                    : La miro pensando cuanto faltar para que empiece a odiar
+                    : La forma que tengo de amarla tan mal mi manera de huir
+                    : Que no puedo parar
+                    : 
+                    : No he olvidado el olor de la que me foll en el bao de un garito borracho en Berln
+                    : Escuchando un techno que me haca empujarla como un animal
+                    : Msica del infierno que sonar el da de mi funeral
+                    : An me acuerdo de ti
+                    : 
+                    : Demasiadas mujeres (x 8)
+                    : 
+                    : Un Whatsapp sin abrir
+                    : Hablando de cosas que no dicen nada para ver si an estas
+                    : Borracho en Miami volando para L.A. o de vuelta en Madrid
+                    : Cuntame cosas que no me hagan dao, cundo volvers
+                    : Qu hora es por all
+                    : 
+                    : No me puedo olvidar de la que me dijo que siempre para siempre estara para m
+                    : De la que deca que solo una noche y despus no hubo ms
+                    : De la que se fue con mi ganas de amar mis ganas de vivir
+                    : No las he vuelto a encontrar
+                    : 
+                    : Demasiadas mujeres (x 8)
+                    : 
+                    : 
+                    : Music video by C. Tangana performing Demasiadas Mujeres. (C) 2020 Sony Music Entertainment Espaa, S.L.
+    artist          : CTanganaVEVO
+    title           : C. Tangana - Demasiadas Mujeres
+    date            : 20201008
+    encoder         : Lavf57.56.101
+  Duration: 00:02:47.33, start: 0.023021, bitrate: 244 kb/s
+    Stream #0:0: Audio: mp3, 48000 Hz, stereo, fltp, 239 kb/s
+    Metadata:
+      encoder         : Lavc57.64
+    Stream #0:1: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1280x720 [SAR 1:1 DAR 16:9], 90k tbr, 90k tbn, 90k tbc (attached pic)
+    Metadata:
+      title           : "Album cover"
+      comment         : Other
+
